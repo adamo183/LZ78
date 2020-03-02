@@ -1,0 +1,11 @@
+D:\VisualRepo\LZ78\bin\Debug\netcoreapp3.0\LZ78.exe
+D:\VisualRepo\LZ78\bin\Debug\netcoreapp3.0\LZ78.deps.json
+D:\VisualRepo\LZ78\bin\Debug\netcoreapp3.0\LZ78.runtimeconfig.json
+D:\VisualRepo\LZ78\bin\Debug\netcoreapp3.0\LZ78.runtimeconfig.dev.json
+D:\VisualRepo\LZ78\bin\Debug\netcoreapp3.0\LZ78.dll
+D:\VisualRepo\LZ78\bin\Debug\netcoreapp3.0\LZ78.pdb
+D:\VisualRepo\LZ78\obj\Debug\netcoreapp3.0\LZ78.csprojAssemblyReference.cache
+D:\VisualRepo\LZ78\obj\Debug\netcoreapp3.0\LZ78.AssemblyInfoInputs.cache
+D:\VisualRepo\LZ78\obj\Debug\netcoreapp3.0\LZ78.AssemblyInfo.cs
+D:\VisualRepo\LZ78\obj\Debug\netcoreapp3.0\LZ78.dll
+D:\VisualRepo\LZ78\obj\Debug\netcoreapp3.0\LZ78.pdb
